@@ -1,0 +1,18 @@
+.re-blue{
+    background-color: #5041ab;
+}
+
+@font-face {
+    font-family:rein;
+    src: url(./Agdasima-Bold.ttf);
+}
+@font-face {
+    font-family: agdasima;
+    src: url(./Agdasima-Regular.ttf);
+}
+.t{
+    font-family: rein;
+}
+.pp{
+    font-family:agdasima;
+}
